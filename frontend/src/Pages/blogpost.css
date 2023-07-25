@@ -1,0 +1,73 @@
+.blog-post {
+    margin-bottom: 20px;
+    width: 60%;
+  }
+  .blog-box{
+    width: 90%;
+  }
+  .blog-post__image {
+    width: 100%;
+    height: 600px;
+  }
+  
+  .blog-post__content {
+    padding: 20px;
+    background-color: #f7f7f7;
+  }
+  
+  .blog-post__title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .blog-post__categories {
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .blog-post__text {
+    margin-bottom: 10px;
+    color: black;
+    font-size: bold;
+  }
+  .info:hover{
+color: yellow;
+cursor: pointer;
+  }
+  .comment {
+    /* Add styles for the comment container if needed */
+    width:54%;
+    margin-top: 80px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+  }
+  
+  .comment-item {
+    margin-bottom: 10px;
+    /* Add styles for individual comment items */
+    padding: 10px;
+  }
+  
+  .comment-form {
+    margin-top: 10px;
+  }
+  
+  #comment-input {
+    width: 80%;
+    padding: 5px;
+    /* Add any additional styles for the comment input */
+  }
+  
+  #submit-btn {
+    padding: 5px 10px;
+    /* Add any additional styles for the submit button */
+    background-color: yellow;
+  }
+  .textarea{
+    width: 300px;
+    height: 150px;
+  }
+  .textarea:hover {
+    border: none;
+   
+  }

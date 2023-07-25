@@ -1,0 +1,14 @@
+.home {
+    display: flex;
+    justify-content: space-between;
+    margin-top:70px; /* Adjust the margin value as needed */
+  }
+  
+  .left {
+    width: 60%;
+  }
+  
+  .right {
+    width: 30%;
+  }
+  
